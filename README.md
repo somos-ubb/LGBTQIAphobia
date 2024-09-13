@@ -1,5 +1,5 @@
 # LGBTQIAphobia_dataset  
-Corpus with phrases retrieved from different digital sources containing diverse messages directed towards the LGBTQIA+ community.
+Labelled dataset with phrases retrieved from different digital sources containing diverse messages directed towards the LGBTQIA+ community.
 
 id, phase, class, where class is  {LGBTQIAphobic, No LGBTQIAphobic}  
 
